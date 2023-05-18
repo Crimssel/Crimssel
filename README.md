@@ -2,7 +2,8 @@
 ## Using Kotlin and Invfx
 
 ## Using kommand and tap
-### Psychics Helped by.Monun `io.github.monun.psychics` (https://github.com/monun/psychics)
+### Psychics Helped by.Monun `io.github.monun.psychics` (https://github.com/monun/psychics)(my one: https://github.com/Crimssel/psychics)
+
 
 
 # Minecraft Mods
