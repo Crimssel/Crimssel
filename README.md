@@ -1,5 +1,5 @@
 # Minecraft Plugins
-
+### Psychics Helped by.Monun `io.github.monun.psychics` [![Maven Central](https://img.shields.io/maven-central/v/io.github.monun/psychics-core)](https://search.maven.org/artifact/io.github.monun/psychics-core)
 
 
 # Minecraft Mods
