@@ -1,7 +1,8 @@
 # Minecraft Plugins
 ## Using Kotlin and Invfx
-### Psychics Helped by.Monun `io.github.monun.psychics` (https://github.com/monun/psychics)
+
 ## Using kommand and tap
+### Psychics Helped by.Monun `io.github.monun.psychics` (https://github.com/monun/psychics)
 
 
 # Minecraft Mods
